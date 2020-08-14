@@ -32,10 +32,10 @@ rm -rf aws awscliv2.zip
 aws configure
 
 # Clone this repo
-git clone git@github.com:normanwongcl/whatsapp-notification.git
+git clone git@github.com:normanwongcl/video-transcoding-serverless.git
 
 # cd into project and set it up
-cd whatsapp-notification
+cd video-transcoding-serverless
 
 ```
 
